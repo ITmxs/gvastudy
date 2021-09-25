@@ -1,0 +1,1 @@
+System.register(["./index-legacy.2b2c1438.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.s}],execute:function(){e("g",(function(e){return t({url:"/fileUploadAndDownload/getFileList",method:"post",data:e})})),e("d",(function(e){return t({url:"/fileUploadAndDownload/deleteFile",method:"post",data:e})}))}}}));

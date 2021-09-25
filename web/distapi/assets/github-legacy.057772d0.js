@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.89c3086c.js"],(function(t){"use strict";var e;return{setters:[function(t){e=t.b}],execute:function(){t({C:function(t){return r({url:"https://api.github.com/repos/flipped-aurora/gin-vue-admin/commits?page="+t,method:"get"})},M:function(){return r({url:"https://api.github.com/orgs/FLIPPED-AURORA/members",method:"get"})}});var r=e.create()}}}));

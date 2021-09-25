@@ -1,0 +1,1 @@
+import{s as d}from"./index.bf0eadd2.js";const o=o=>d({url:"/fileUploadAndDownload/getFileList",method:"post",data:o}),e=o=>d({url:"/fileUploadAndDownload/deleteFile",method:"post",data:o});export{e as d,o as g};
